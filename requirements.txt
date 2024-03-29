@@ -1,2 +1,2 @@
-scikit-learn
-pickle
+numpy==1.24.3
+streamlit==1.32.2
